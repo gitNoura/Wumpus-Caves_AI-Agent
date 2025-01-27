@@ -1,0 +1,9 @@
+(deffacts caves
+  (worldsize 5 6)
+  (gold (x 2)(y 2)(amount 100))
+  (pit (x 3)(y 1))
+  (nocave (x 2)(y 1))
+  (nocave (x 3)(y 5))
+  (wumpus (x 2)(y 4))
+  (exit (x 1)(y 1))
+  (hunter (agent C48)))
