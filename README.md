@@ -1,4 +1,6 @@
 # 🕵️‍♂️ Wumpus World AI Agent  
+![image](https://github.com/user-attachments/assets/2eeddea7-9163-4389-acae-0b1285b0c06a)
+
 ## 🌟 Overview  
 The **Wumpus World** project explores the creation of a logical agent using the **JESS Expert System Shell** to navigate a cave-based environment, identify hazards, and accomplish goals such as collecting gold and eliminating the Wumpus. This project applies **knowledge representation**, **logical inferencing**, and **decision-making** principles to build an intelligent agent capable of tackling the challenges of the Wumpus World.  
 
